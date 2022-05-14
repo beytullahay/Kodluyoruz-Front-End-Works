@@ -1,0 +1,70 @@
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  a {
+    color: blue;
+  }
+
+  p {
+    margin-bottom:0
+  } 
+
+  p.centerr {
+    text-align: center;
+    color: black;
+  }
+  
+  #search{
+    width: 300px; 
+    
+  }
+
+.container {
+    width: 90%;
+    height: 200px;
+    margin: 0 auto ;
+
+}
+
+.search-box {
+    text-align: center;
+    width: 90%;
+    background-color: #EEEEEE; 
+    margin: 0 auto 4px ;
+
+}
+
+.left-box {
+  text-align: center;
+  background-color: #7EE5DA;
+  width: 39%;
+  float: left;
+  padding: 2%;
+  margin-right: 0.5%;
+
+}
+
+.center-box {
+  text-align: center;
+  background-color: #70CCC2;
+  width: 10%;
+  float: left;
+  padding: 1.9%;
+  margin-right: 0.5%;
+
+}
+
+.right-box {
+  text-align: center;
+  background-color: #62B3AA;
+  width: 38.9%;
+  float: left;
+  padding: 1.65%;
+}
